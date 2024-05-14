@@ -1,0 +1,7 @@
+fastapi==0.70.0
+opencv-python==4.5.5.62
+numpy==1.22.2
+qrcode==7.3
+python-multipart==0.0.5
+uvicorn==0.15.0
+pillow==8.2.0
